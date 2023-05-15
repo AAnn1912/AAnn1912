@@ -30,3 +30,16 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AAnn1912&show_icons=true&locale=en&theme=tokyonight" alt="AAnn1912" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AAnn1912&&theme=tokyonight" alt="AAnn1912" /></p>
+ <br/>
+<h2 align="center">📱 Contact Me 📧 </h2>
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100006833209191" target="blank">
+    <img src="https://icons8.com/icon/EToCOnh3V4mw/facebook" alt="AAnn_facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCNQcO8faRxGbtfK7w50BrRA" target="blank">
+    <img src="https://icons8.com/icon/qtd3H4PbPfFk/youtube-logo" alt="AAnn_youtube" />
+  </a>
+  <a href="mailto:phamthienan862@gmail.com" target="blank">
+    <img src="https://icons8.com/icon/RUVBnu6Mciid/gmail" alt="" />
+  </a>
+</div>
