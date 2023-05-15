@@ -34,12 +34,12 @@
 <h2 align="center">📱 Contact Me 📧 </h2>
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100006833209191" target="blank">
-    <img src="https://icons8.com/icon/EToCOnh3V4mw/facebook" alt="AAnn_facebook" />
+    <img src="./images/icons8-facebook-96.png" alt="AAnn_facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCNQcO8faRxGbtfK7w50BrRA" target="blank">
-    <img src="https://icons8.com/icon/qtd3H4PbPfFk/youtube-logo" alt="AAnn_youtube" />
+    <img src="./images/icons8-youtube-logo-96.png" alt="AAnn_youtube" />
   </a>
   <a href="mailto:phamthienan862@gmail.com" target="blank">
-    <img src="https://icons8.com/icon/RUVBnu6Mciid/gmail" alt="" />
+    <img src="./images/icons8-gmail-96.png" alt="" />
   </a>
 </div>
